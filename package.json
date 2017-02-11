@@ -1,0 +1,19 @@
+{
+  "name": "@esteladiaz/howtonpm-dir",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esteladiaz/how-to-npm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/esteladiaz/how-to-npm/issues"
+  },
+  "homepage": "https://github.com/esteladiaz/how-to-npm#readme"
+}
